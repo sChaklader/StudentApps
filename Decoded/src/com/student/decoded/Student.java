@@ -30,7 +30,8 @@ public class Student {
     	{
     		System.out.println("Student Pass");
     		
-    	}else
+    	}
+    	else
     	{
     		System.out.println("Fail");
     	}
