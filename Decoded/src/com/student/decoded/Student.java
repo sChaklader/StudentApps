@@ -9,9 +9,9 @@ public class Student {
 	
 	public void studentInfo()
 	{
-	System.out.println("I AM :" + name);
-	System.out.println("my Roll Number is :" + rollNo);
-	System.out.println("MY AGE IS :" + age);
+	System.out.println("I am :" + name);
+	System.out.println("My Roll Number is :" + rollNo);
+	System.out.println("My Age is :" + age);
 	}
 	
     public void giveSomeNumber(int a, int b)
