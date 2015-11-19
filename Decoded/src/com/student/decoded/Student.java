@@ -22,4 +22,21 @@ public class Student {
     	  System.out.println(num);
       }
     }
+    
+    public void passFail()
+    {
+    	int a = 60;
+    	if (a < 60)
+    	{
+    		System.out.println("Student Pass");
+    		
+    	}
+    	else
+    	{
+    		System.out.println("Fail");
+    	}
+    	
+    }
+    
+    
 }
