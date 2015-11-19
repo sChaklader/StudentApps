@@ -12,7 +12,8 @@ public class StudentApps {
 		
 		
 		si.studentInfo();
-		si.giveSomeNumber(65, 100);
+		si.giveSomeNumber(61, 100);
+		si.passFail();
 		
 		
 		
